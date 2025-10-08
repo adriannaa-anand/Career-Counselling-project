@@ -29,7 +29,7 @@ Authentication	JSON Web Token (JWT)
 Hosting	Vercel (Frontend) & Render (Backend)
 ⚙️ How to Run
 1️)Clone the Repository
-git clone https://github.com/yourusername/my-career-guide.git
+git clone https://github.com/adriannaa-anand/my-career-guide.git
 cd my-career-guide
 
 2️)Install Dependencies
