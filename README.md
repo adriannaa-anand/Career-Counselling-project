@@ -59,10 +59,23 @@ npm start
 
 Your app should now be running at  http://localhost:3000/
 
-## 📁 Folder Overview
+## Folder Overview
+```   my-career-guide/
+│
+├── backend/
+│ ├── models/
+│ ├── routes/
+│ └── app.js
+│
+├── frontend/
+│ └── src/
+│ ├── components/
+│ ├── pages/
+│ └── App.js
+│
+└── README.md
 
-
-
+```
    What’s Next
 
 Add AI-based quiz generation for smarter and more dynamic questions.
@@ -79,6 +92,7 @@ This project is part of my journey in full-stack development.
 I built it to combine my interest in tech + career guidance, and to help students discover what they’re truly meant to do.
 
 👩‍💻 Developed by: Adriannaa Anand
+
 📅 Year: 2025
 
 <img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/36c84ac8-de8c-4113-b3c3-ab5b876df7cb" />
