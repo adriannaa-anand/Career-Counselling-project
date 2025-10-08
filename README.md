@@ -60,7 +60,8 @@ npm start
 Your app should now be running at  http://localhost:3000/
 
 ## Folder Overview
-```   my-career-guide/
+```
+my-career-guide/
 │
 ├── backend/
 │ ├── models/
