@@ -59,23 +59,11 @@ npm start
 
 Your app should now be running at  http://localhost:3000/
 
-Folder Overview
-my-career-guide/
-│
-├── backend/
-│   ├── models/
-│   ├── routes/
-│   ├── app.js
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   └── App.js
-│
-└── README.md
+## 📁 Folder Overview
 
-What’s Next
+
+
+   What’s Next
 
 Add AI-based quiz generation for smarter and more dynamic questions.
 
@@ -92,3 +80,17 @@ I built it to combine my interest in tech + career guidance, and to help student
 
 👩‍💻 Developed by: Adriannaa Anand
 📅 Year: 2025
+
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/36c84ac8-de8c-4113-b3c3-ab5b876df7cb" />
+
+<img width="1903" height="899" alt="image" src="https://github.com/user-attachments/assets/b1ae63ae-8078-4f71-88e9-72617b22a79c" />
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/3879ce1b-534f-4aed-9802-ab8e1478ccca" />
+<img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/415ce1a2-e17e-40c7-ba85-0ec8c9f55c83" />
+<img width="1917" height="914" alt="image" src="https://github.com/user-attachments/assets/91c48d8f-7b95-4f2b-929e-b58c0fe6d274" />
+<img width="1917" height="900" alt="image" src="https://github.com/user-attachments/assets/64db5fa6-0c54-4ff5-97c1-56ea76647940" />
+<img width="1895" height="904" alt="image" src="https://github.com/user-attachments/assets/889b7015-f7df-4afd-b4c3-4496fa54f052" />
+<img width="1914" height="913" alt="image" src="https://github.com/user-attachments/assets/ecc48a65-841d-4183-b320-629b645da6d3" />
+
+
+
+
